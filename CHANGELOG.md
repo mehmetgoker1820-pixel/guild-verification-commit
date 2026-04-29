@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-04-29T12:54:27.926Z
-Commit: Fix memory leak in event handlers
+Timestamp: 2026-04-29T12:56:01.722Z
+Commit: Resolve null pointer exception in user service
